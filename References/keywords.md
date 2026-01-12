@@ -1,4 +1,4 @@
-This page is not to describe the various foods, ingredients, tastes. It's just to list any search terms that might be helpful. So stuff mentioned in a WoB doesn't belong here unless it also appears in the books (see https://wob.coppermind.net/events/409-youtube-livestream-1/#e13805, he mentions sweet potato, but I doubt that's actually in the books. I'm including it for now, but will remove if it has no search results).
+This page is not to describe the various foods, ingredients, tastes. It's just to list any search terms that might be helpful. So stuff mentioned in a WoB doesn't belong here unless it also appears in the books (see https://wob.coppermind.net/events/409-youtube-livestream-1/#e13805, he mentions sweet potato, but I doubt that's actually in the books. I'm including it for now, but will remove if it has no search results). Also include the plurals if different (curry vs curries).
 
 # Ingredients
 - Lavis
@@ -11,6 +11,16 @@ This page is not to describe the various foods, ingredients, tastes. It's just t
 - Soulcast
 - Meat
 - Cheese
+- vegetables
+- Seed
+- Pepper
+
+# Foods
+- Pancakes
+- Sauce
+- Paste
+- Curry
+- Curries
 
 # Drinks
 - milk
@@ -77,6 +87,8 @@ This page is not to describe the various foods, ingredients, tastes. It's just t
 - grape
 - weak
 - strong
+- salt
+- sweet
 
 # Miscellaneous
 - drink
