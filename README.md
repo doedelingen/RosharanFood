@@ -5,8 +5,10 @@ Analyzing the food and drink mentioned in the Stormlight Archive and related WoB
 Folder of all references within the books to food
 - Will need a list of keywords to search
 - Borrowing my friend's kindle to be able to search the book's text easily
+- Full-text references are discouraged on the coppermind, so this would be an appropriate use of GitHub instead of just putting it there
+- Also, references to webpages who have attempted this task in the past
 
-Document synthesizing references
+Document synthesizing references - Put in this repository's wiki? Put in the coppermind?
 - List categories and characteristics of foods
 - Example:
 - Curries
