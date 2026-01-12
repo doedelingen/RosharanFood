@@ -1,4 +1,20 @@
+This page is not to describe the various foods, ingredients, tastes. It's just to list any search terms that might be helpful. So stuff mentioned in a WoB doesn't belong here unless it also appears in the books (see https://wob.coppermind.net/events/409-youtube-livestream-1/#e13805, he mentions sweet potato, but I doubt that's actually in the books. I'm including it for now, but will remove if it has no search results).
+
+# Ingredients
+- Lavis
+- Grain
+- Milk
+- Sow's milk
+- Sweet potato
+- Tuber
+- Wheat
+- Soulcast
+- Meat
+- Cheese
+
 # Drinks
+- milk
+- juice
 ## Alcohol
 ### Beer
 - Mudbeer
@@ -19,6 +35,20 @@
   - Veden saph
 - Blue
 - Violet
+#### Other wines
+- Shin wine
+- ruby bench
+- Clavendah
+### Unkalaki Drinks
+- Shiki
+- Horneater lager
+- Horneater white
+### Other
+- Cider
+- Lager
+- Ale
+- Winespren
+- Alespren
 
 # Locations
 ## Winehouse
@@ -27,11 +57,30 @@
 
 # Flavor
 - floral
-- juice
 - fruit
 - fruity
 - ginger
 - bold
-- auburn
+- deep
+- spice
+- spicy
+- earthy
+- flavourful
+- burn
+- pleasant
+- nuts
+- honey
+- berry
+- lemon
+- sandalwood
+- whiskey
+- grape
+- weak
+- strong
 
 # Miscellaneous
+- drink
+- eat
+- food
+- water
+- infuse
