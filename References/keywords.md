@@ -21,7 +21,8 @@ This page is not to describe the various foods, ingredients, tastes. It's just t
 - Paste
 - Curry
 - Curries
-
+- Chouta
+- Rations
 # Drinks
 - milk
 - juice
@@ -89,6 +90,7 @@ This page is not to describe the various foods, ingredients, tastes. It's just t
 - strong
 - salt
 - sweet
+- taste
 
 # Miscellaneous
 - drink
