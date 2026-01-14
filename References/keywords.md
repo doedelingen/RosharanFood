@@ -14,6 +14,12 @@ This page is not to describe the various foods, ingredients, tastes. It's just t
 - vegetables
 - Seed
 - Pepper
+- Pork
+- lanka
+- claws
+- broth
+- Gravy
+- fruit
 
 # Foods
 - Pancakes
@@ -23,6 +29,7 @@ This page is not to describe the various foods, ingredients, tastes. It's just t
 - Curries
 - Chouta
 - Rations
+
 # Drinks
 - milk
 - juice
@@ -60,6 +67,7 @@ This page is not to describe the various foods, ingredients, tastes. It's just t
 - Ale
 - Winespren
 - Alespren
+- Tea
 
 # Locations
 ## Winehouse
@@ -91,6 +99,9 @@ This page is not to describe the various foods, ingredients, tastes. It's just t
 - salt
 - sweet
 - taste
+- savory
+- succulent
+- delicious
 
 # Miscellaneous
 - drink
@@ -98,3 +109,13 @@ This page is not to describe the various foods, ingredients, tastes. It's just t
 - food
 - water
 - infuse
+- cook
+- 
+
+Parse this passage:
+ Here is the food from the Oathbringer flashback (chapter 19):
+
+"servants brought out slabs of pork and lanka claws for the men, cooked in a savory broth"
+"Dalinar finished the claws, then turned toward his pork, a succulent slab of meat swimming in gravy."
+"The meat was growing cold, but still smelled delicious."
+"the serving staff entered with teas and fruit to close the meal; one tried to take his steak," 
